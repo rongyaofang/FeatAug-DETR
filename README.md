@@ -102,7 +102,7 @@ We provide a set of results:
 <td align="center">Swin Tiny</td>
 <td align="center">300</td>
 <td align="center">36</td>
-<td align="center">49.0,49.6</td>
+<td align="center">49.0, 49.6</td>
 </tr>
 </tr>
  <tr><td align="left">Deformable-DETR + tricks</a></td>
